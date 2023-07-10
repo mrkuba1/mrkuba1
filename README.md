@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About me
+I study Telecommunications at Warsaw University of Technology.
+
+
+## Current projects
+> [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)
+
+
+
+
 <!--
 **mrkuba1/mrkuba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
