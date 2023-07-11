@@ -1,8 +1,9 @@
-### Hi there 👋
+## Welcome 👋
 
 ### About me
-I study Telecommunications at Warsaw University of Technology.
-
+```yml
+--------------LOADING------------------------
+```
 
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)
