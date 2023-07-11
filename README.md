@@ -2,8 +2,12 @@
 
 ### About me
 ```yml
+name: Jakub
+location: Warsaw, PL
 --------------LOADING------------------------
 ```
+
+
 
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)
