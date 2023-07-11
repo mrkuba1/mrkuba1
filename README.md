@@ -2,8 +2,9 @@
 
 ### About me
 ```yml
-name: Jakub
+name: Kuba
 location: Warsaw, PL
+skills:
 --------------LOADING------------------------
 ```
 
