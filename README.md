@@ -3,8 +3,23 @@
 ### About me
 ```yml
 name: Kuba
+education: Warsaw University of Technology
 location: Warsaw, PL
+languages:
+-> native: Polish
+-> advanced: English
+-> low-intermediate: Russian
+-> beginner: German
 skills:
+-> C++   
+-> Python
+-> JAVA
+-> Flutter/Dart
+
+
+
+
+
 --------------LOADING------------------------
 ```
 
