@@ -15,18 +15,15 @@ skills:
 -> Python
 -> JAVA
 -> Flutter/Dart
-
-
-
-
-
 --------------LOADING------------------------
+Soon new projects
 ```
 
 
 
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)
+
 
 
 
