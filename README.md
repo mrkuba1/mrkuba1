@@ -23,7 +23,7 @@ Soon new projects
 
 
 ### Current projects
-> [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)
+> [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
 > [FooderApp]
 
 
