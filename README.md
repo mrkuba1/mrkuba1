@@ -12,20 +12,21 @@ languages:
 -> low-intermediate: Russian
 -> beginner: German
 skills:
--> C++   
+-> C++
 -> Python
 -> JAVA
 -> Flutter/Dart
---------------LOADING------------------------
+
+
+
 Soon new projects
 ```
 
-
-
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
-> [FooderApp]
+> [FooderApp](https://github.com/mrkuba1/fooder-flutter)
 
+### Completed projects
 
 
 
