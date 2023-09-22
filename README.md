@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mrkuba/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrkuba?theme=light&font=MuseoModerno)
 ### About me
 ```yml
 name: Kuba
