@@ -21,6 +21,10 @@ skills:
 
 Soon new projects
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkuba1&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
