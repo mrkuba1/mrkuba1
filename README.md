@@ -17,6 +17,8 @@ skills:
 -> C++
 -> Python
 -> JAVA
+-> Spring
+-> Oracle
 -> Flutter/Dart
 
 Soon new projects
