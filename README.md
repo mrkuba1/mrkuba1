@@ -30,8 +30,25 @@ Soon new projects
 ### Current projects
 > [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
 > [FooderApp](https://github.com/mrkuba1/fooder-flutter)
+> [BussApp](https://github.com/mrkuba1/busapp-flutter)
 
 ### Completed projects
+
+# Python
+[Newton cannonball ](https://github.com/mrkuba1/Newton-cannonball-python)\
+[Password app ](https://github.com/mrkuba1/password-app-python)\
+
+# Flutter
+
+SOON
+
+# Java
+[Spendify](https://github.com/mrkuba1/Spendify)\
+[Operator-Spring-boot-thymeleaf-CRUDapp](https://github.com/mrkuba1/Operator-spring-boot-thymeleaf)\ Available after 20.01
+
+
+
+
 
 
 
