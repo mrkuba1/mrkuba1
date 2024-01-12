@@ -14,35 +14,30 @@ languages:
 -> low-intermediate: Russian
 -> beginner: German
 skills:
--> C++
 -> Python
+-> Flutter/Dart
 -> JAVA
 -> Spring
 -> Oracle
--> Flutter/Dart
+-> C++
 
 Soon new projects
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkuba1&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Completed projects
 
-### Current projects
-> [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
-> [FooderApp](https://github.com/mrkuba1/fooder-flutter)
-> [BussApp](https://github.com/mrkuba1/busapp-flutter)
-
-### Completed projects
-
-# Python
+## Python
 [Newton cannonball ](https://github.com/mrkuba1/Newton-cannonball-python)\
 [Password app ](https://github.com/mrkuba1/password-app-python)
 
-# Flutter
+## Flutter
+[WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
+[FooderApp](https://github.com/mrkuba1/fooder-flutter)\
+[BussApp](https://github.com/mrkuba1/busapp-flutter)
 
-SOON
-
-# Java
+## Java
 [Spendify](https://github.com/mrkuba1/Spendify)\
 [Operator-Spring-boot-thymeleaf-CRUDapp](https://github.com/mrkuba1/Operator-spring-boot-thymeleaf)  Available after 20.01
 
