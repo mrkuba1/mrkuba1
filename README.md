@@ -38,11 +38,8 @@ Soon new projects
 [BussApp](https://github.com/mrkuba1/busapp-flutter)
 
 ## Java
+[Operator-Spring-boot-thymeleaf-CRUDapp](https://github.com/mrkuba1/Operator-spring-boot-thymeleaf)
 [Spendify](https://github.com/mrkuba1/Spendify)\
-[Operator-Spring-boot-thymeleaf-CRUDapp](https://github.com/mrkuba1/Operator-spring-boot-thymeleaf)  Available after 20.01
-
-
-
 
 
 
