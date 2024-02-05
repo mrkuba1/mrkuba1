@@ -23,8 +23,9 @@ skills:
 
 Soon new projects
 ```
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkuba1&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkuba1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Completed projects
@@ -34,6 +35,7 @@ Soon new projects
 [Password app ](https://github.com/mrkuba1/password-app-python)
 
 ## Flutter
+[MemoryGameApp](https://github.com/mrkuba1/memorygameapp-flutter)\
 [WarrantyApp](https://github.com/mrkuba1/warrantyapp-flutter)\
 [FooderApp](https://github.com/mrkuba1/fooder-flutter)\
 [BussApp](https://github.com/mrkuba1/busapp-flutter)
