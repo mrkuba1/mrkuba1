@@ -24,7 +24,8 @@ skills:
 Soon new projects
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkuba1&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkuba1&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkuba1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Completed projects
 
