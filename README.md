@@ -1,6 +1,13 @@
 ## Welcome 👋
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mrkuba/)
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=mrkuba1"
+    alt="mrkuba1"
+  />
+</p>
 ### About me
 ```yml
 name: Kuba
