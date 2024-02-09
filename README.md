@@ -36,7 +36,8 @@ societies:
 
 ## Flutter
 [MemoryGameApp](https://github.com/mrkuba1/memorygameapp-flutter)\
-[BussApp](https://github.com/mrkuba1/busapp-flutter)
+[BussApp](https://github.com/mrkuba1/busapp-flutter)\
+[WeatherApp](https://github.com/mrkuba1/weatherapp-flutter)
 
 ## Java
 [Operator-Spring-boot-thymeleaf-CRUDapp](https://github.com/mrkuba1/Operator-spring-boot-thymeleaf)\
